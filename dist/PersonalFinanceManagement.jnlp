@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="file://C:/ProjectsPersonal_Finance_Management-main/dist/PersonalFinanceManagement.jnlp/" href="PersonalFinanceManagement.jnlp">
+    <information>
+        <title>Personal Finance Management System</title>
+        <vendor>Purnendu Dutta</vendor>
+        <description>My Java application launched via JNLP</description>
+    </information>
+
+    <security>
+        <all-permissions/>
+    </security>
+
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="PersonalFinanceManagement.jar" main="true" />
+    </resources>
+
+    <application-desc main-class="HomePage.form" />
+</jnlp>
