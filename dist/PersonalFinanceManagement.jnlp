@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="file://C:/ProjectsPersonal_Finance_Management-main/dist/PersonalFinanceManagement.jnlp/" href="PersonalFinanceManagement.jnlp">
+<jnlp spec="1.0+" codebase="https://github.com/Purnendudutta/Personal_Finance_Management_System/blob/main/dist/PersonalFinanceManagement.jnlp" href="PersonalFinanceManagement.jnlp">
     <information>
         <title>Personal Finance Management System</title>
         <vendor>Purnendu Dutta</vendor>
