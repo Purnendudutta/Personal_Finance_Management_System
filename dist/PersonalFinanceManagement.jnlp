@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="file:///C:/Projects/Personal_Finance_Management-main/dist" href="PersonalFinanceManagement.jnlp">
+  <information>
+    <title>My Sample Java App</title>
+    <vendor>Your Name or Company</vendor>
+    <description>Simple Java Web Start Example</description>
+    <offline-allowed/>
+  </information>
+
+  <resources>
+    <j2se version="1.8+" />
+    <jar href="PersonalFinanceManagement.jar" main="true"/>
+  </resources>
+
+  <application-desc main-class="personalfinancemanagement.PersonalFinanceManagement"/>
+</jnlp>
