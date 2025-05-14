@@ -1,6 +1,3 @@
-
-
-
 # Personal Finance Management System 💰
 
 ## Overview
